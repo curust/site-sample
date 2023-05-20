@@ -1,0 +1,62 @@
+@media(max-width: 860px){
+
+.logo_paz img{
+  width: 130px;
+  height:79px
+  
+}
+
+  .paz h2{
+    font-size: 16px;
+  }
+  .paz h3{
+    font-size:10px;
+  }
+
+  .bananapound img{
+    height:134px;
+    width:179px;
+    top:440px;
+    left: 150px;
+  }
+
+  .counter img{
+    height:190px;
+    width:179px;
+    top:580px;
+    left:150px;
+  }
+  
+  .cake h2{
+    font-size:16px;
+  }
+
+  .cake h3{
+    font-size:10px;
+  }
+  .cake{
+    height:280px
+  }
+  
+  .content{
+    width: 482px;
+    height:438px;
+    display:flex;
+    flex-direction:column;
+    background-color: red;
+    text-align: center;
+  }
+  .cake_item1 img{
+    height: 216px;
+    width: 289px;
+  }
+  .cake_item2 img{
+    height: 216px;
+    width: 289px;
+  }
+  .cake_item3 img{
+    display:none;
+  
+  }
+
+}
