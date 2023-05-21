@@ -1,22 +1,40 @@
-@media(max-width: 460px){
+@media(max-width: 860px){
 
 .logo_paz img{
   width: 130px;
   height:79px
 }
 
+.paz{
+  margin-top: 20px;
+  height:400px;
+  width:570px;
+  background-image:url(../img/img_counter.jpg);
+  background-size:cover;
+}
   .paz h2{
-    font-size: 16px;
+    font-size: 27px;
+    color:#ffff;
+    font-weight: bold;
+    padding-top: 200px;
+    display:none;
+
   }
   .paz h3{
-    font-size:10px;
+    font-size:19px;
+    margin-top: 420px;
+  }
+
+  .cake{
+    margin-top:550px
   }
 
   .bananapound img{
     height:134px;
     width:179px;
-    top:440px;
+    top: 700px;
     left: 150px;
+    display:none;
   }
 
   .counter img{
@@ -24,30 +42,30 @@
     width:179px;
     top:580px;
     left:150px;
+    display:none;
   }
   
   .cake h2{
-    font-size:16px;
+    font-size:25px;
   }
 
   .cake h3{
-    font-size:10px;
+    font-size:18px;
   }
-  .cake{
-    height:280px
-  }
+ 
   
   .content{
-    width: 482px;
+    width: 570px;
     height:438px;
     display:flex;
     flex-direction:column;
     background-color: red;
     text-align: center;
+
   }
   .cake_item1 img{
-    height: 216px;
-    width: 289px;
+    height: 315px;
+    width: 420px;
   }
   .cake_item2 img{
     height: 216px;
@@ -57,5 +75,29 @@
     display:none;
   
   }
+  .access{
+    display:none;
+  }
 
+  .slope{
+    display:none;
+  }
+ 
+  .sofa img{
+    display:none;
+  }
+  .terace img{
+    display:none;
+  }
+
+  .table img{
+    display:none;
+  }
+
+  .interior{
+    display:none;
+  }
+  .img_slope{
+   display:none;
+  }
 }
