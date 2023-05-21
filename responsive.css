@@ -1,4 +1,4 @@
-@media(max-width: 860px){
+
   body{
     background-color:#F8EACF; 
   }
@@ -153,5 +153,4 @@
   .cake_item3 img{
     display:none;
   
-  }
 }
