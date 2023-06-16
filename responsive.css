@@ -47,6 +47,7 @@
   width: 570px;
   display:flex;
   flex-direction:column;
+  font-weight: lighter;
   text-align: center;
   margin:auto;
 
@@ -111,9 +112,12 @@
   line-height:2;
   padding-bottom:20px;
 }
+
+.access ul{
+  display:inline-block;
+}
 .access li{
  text-align: left;
- margin-left: 900px;
 }
 
 .slope{
