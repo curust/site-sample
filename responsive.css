@@ -41,7 +41,9 @@
  font-size: 18px;
  display:flex;
  margin:auto;
+ font-weight: lighter;
  padding-bottom:20px;
+ width: 570px;
 }
 .content{
   width: 570px;
