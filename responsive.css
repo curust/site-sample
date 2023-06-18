@@ -10,8 +10,8 @@
 
 
 .paz{
-  height:420px;
-  width:600px;
+  height:440px;
+  width:620px;
   background-image:url(https://github.com/curust/site-sample/blob/main/img_counter.jpg?raw=true);
   background-size:cover;
   margin:auto;
@@ -21,7 +21,7 @@
 }
 
  .text_description{  
-  width:600px;
+  width:620px;
   display:inline-block;
   line-height:3;
   text-align: center;
@@ -45,7 +45,7 @@
  font-size:20px;
  font-weight:lighter;
  line-height:3;
- text-align:center;
+ margin:auto;
  padding-bottom:20px;
  width:600px;
 
