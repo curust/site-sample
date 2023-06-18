@@ -37,6 +37,7 @@
 }
 
 .cake h3{
+ background-color:#00A1AE; 
  margin-top:0px;
  font-size: 18px;
  font-weight: lighter;
@@ -44,6 +45,7 @@
  text-align: center;
  padding-bottom:20px;
  width:600px;
+
 }
 .content{
   width: 570px;
