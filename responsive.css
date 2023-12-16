@@ -1,4 +1,7 @@
 
+
+
+  
   body{
     background-color:#F8EACF; 
   }
@@ -10,24 +13,22 @@
 
 
 .paz{
-  height:410px;
+  height:420px;
   width:600px;
-  background-image:url(https://github.com/curust/site-sample/blob/main/img_counter.jpg?raw=true);
+  background-image:url(../img/img_counter.jpg);
   background-size:cover;
   margin:auto;
 }
 
-
  .text_description{  
-  padding-top:5px;
-  width:620px;
+  width:600px;
   display:inline-block;
   line-height:3;
   text-align: center;
   margin-top:410px;
-  font-weight: lighter; 
-  font-size: 20px;
-  
+  font-weight: lighter;
+  font-size: 18px;
+  background-color: #00A1AE;
 }
 
 .cake h2{
@@ -37,24 +38,22 @@
   padding-top:30px;
   text-align: center;
 }
-
-.cake h3{
- margin-top:0px;
- font-size:20px;
- font-weight:lighter;
- line-height:3;
- margin:auto;
- text-align: center;
- padding-bottom:20px;
- width:600px;
-
-}
-.content{
-  width: 570px;
-  display:flex;
-  flex-direction:column;
+.c-2{
+  font-size: 18px;
   font-weight: lighter;
   text-align: center;
+  line-height:3;
+  background-color: #00A1AE;
+  height:300px;
+  width:600px;
+  margin:auto;
+}
+.content{
+  width: 600px;
+  display:flex;
+  flex-direction:column;
+  text-align: center;
+  font-weight: lighter;
   margin:auto;
 
 }
@@ -118,12 +117,14 @@
   line-height:2;
   padding-bottom:20px;
 }
-
 .access ul{
   display:inline-block;
+  font-size:18px;
+
 }
 .access li{
- text-align: left;
+  text-align:left;
+  
 }
 
 .slope{
