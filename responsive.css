@@ -25,10 +25,11 @@
   display:inline-block;
   line-height:3;
   text-align: center;
-  margin-top:410px;
+  margin-top:310px;
   font-weight: lighter;
   font-size: 18px;
   background-color: #00A1AE;
+  margin:auto;
 }
 
 .cake h2{
